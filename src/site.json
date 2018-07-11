@@ -3,6 +3,7 @@
 		"name": "DreamHost Remixer",
 		"remixer_signup_url": "https://signup.dreamhost.com/remixer2/email",
 		"panel_url": "https://panel.dreamhost.com/",
+		"sitetailor_url": "https://remixer.panel.dreamhost.com/#/sitetailor",
 		"dreamhost_main": "https://www.dreamhost.com/"
 	},
 
