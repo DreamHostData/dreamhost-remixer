@@ -96,28 +96,28 @@
 		"title": "Begin with a responsive, professionally-designed theme.",
 		"body": "All Remixer themes are built to look beautiful on desktops and mobile devices. They’re so easy to use, you can get started right away!  Enter your content immediately to customize your site and use Remixer’s drag and drop functionality to reorder sections throughout your theme.",
 		"btntext": "Browse Our Themes",
-		"link": "https://signup.dreamhost.com/remixer2/email"
+		"link": "https://remixer.panel.dreamhost.com/#/themes"
 	},
 	{
 		"subtitle": "Feature Two",
 		"title": "Import your own content or browse our royalty-free image library.",
 		"body": "Add and manage content directly from your computer, existing websites, or popular social media platforms. You’ll also have access to over 600,000 high-quality images and graphics to help bring your site to life.",
 		"btntext": "Import Your Gallery",
-		"link": "https://signup.dreamhost.com/remixer2/email"
+		"link": "https://remixer.panel.dreamhost.com/#/sitetailor"
 	},
 	{
 		"subtitle": "Feature Three",
 		"title": "Make each site your own with customizable click-to-edit themes.",
 		"body": "Remixer’s simple click-to-edit interface lets you change fonts and colors with ease. Choose from 70+ content sections, including contact forms, maps, galleries, and more.",
 		"btntext": "Try Remixer for Free",
-		"link": "https://signup.dreamhost.com/remixer2/email/"
+		"link": "https://remixer.panel.dreamhost.com/#/sitetailor"
 	},
 	{
 		"subtitle": "Feature Four",
 		"title": "Publish your site with a single click.",
 		"body": "One click, and it’s live! Upgrade to a Remixer plan to get a custom domain name or email for your new site!",
 		"btntext": "Remix Your Site",
-		"link": "https://signup.dreamhost.com/remixer2/email/"
+		"link": "https://remixer.panel.dreamhost.com/#/sitetailor"
 	}]
 
 }
